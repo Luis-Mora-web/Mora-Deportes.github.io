@@ -19,7 +19,7 @@ var init = function(){
           // No user is signed in.
           mainContainer.style.display = "none";
           console.log("redirect");
-          window.location.replace("login.html");
+          window.location.replace("index.html");
         }
       });
 }
